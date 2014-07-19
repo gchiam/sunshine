@@ -1,2 +1,4 @@
-udacity_developing_android_app
-==============================
+Sunshine for Udacity Developing Android Apps Class
+==================================================
+
+https://www.udacity.com/course/ud853
